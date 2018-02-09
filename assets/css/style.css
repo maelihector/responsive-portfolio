@@ -52,13 +52,13 @@ nav {
 /* This adds pseudo classes to the .header links */
 
 a {
-    color: #ffffff;
+    color: #777777;
     text-decoration: none;
     transition: background-color .5s;
 }
 
 a:link {
-    color: #ffffff;
+    color: #777777;
 }
 
 a:visited {
